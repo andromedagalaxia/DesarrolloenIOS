@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "c4b51b0b4f80e5feef76cefa273dae8d"
+build_time: [1620248154, 350965000]
+inputs:
+  "/Users/antares/Documents/DesarrolloenIos/Proyectos/NavigationController-1/NavigationController-1/ViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/DesarrolloenIos/Proyectos/NavigationController-1/NavigationController-1/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/DesarrolloenIos/Proyectos/NavigationController-1/NavigationController-1/CuartoViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/DesarrolloenIos/Proyectos/NavigationController-1/NavigationController-1/SceneDelegate.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/DesarrolloenIos/Proyectos/NavigationController-1/NavigationController-1/PrimerViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/DesarrolloenIos/Proyectos/NavigationController-1/NavigationController-1/SegundoViewController.swift": [9223372036, 854775807]
+  "/Users/antares/Documents/DesarrolloenIos/Proyectos/NavigationController-1/NavigationController-1/TercerViewController.swift": [9223372036, 854775807]

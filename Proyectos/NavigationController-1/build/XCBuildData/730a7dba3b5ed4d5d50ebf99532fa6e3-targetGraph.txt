@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+NavigationController-1 in NavigationController-1
